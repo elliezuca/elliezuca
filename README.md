@@ -11,5 +11,5 @@ Meu nome é Danielle
 00001105235464SP@al.educacao.sp.gov.br
 
 
-![](https://media.tenor.com/dbdK4aqTG1UAAAAi/giggle.gif)
- 
+![](https://media1.tenor.com/m/EeloF6xUk2gAAAAC/hello-kitty-hello-kitty-maromba.gif)
+![](https://media1.tenor.com/m/e0osqzyIJIkAAAAd/hello-kitty-sanrio.gif) 
