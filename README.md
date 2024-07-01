@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 🖤
 
-<!--
-**elliezuca/elliezuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Danielle 
 
-Here are some ideas to get you started:
+- Estou estudando no [Aluna] (https://www.alura.com.br)
+- Estou me desmvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha orgarnização e compartilhamentos dos meus projetos e desenvolvimentos   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📧
+
+00001105235464SP@al.educacao.sp.gov.br
+
+
+![](https://media.tenor.com/dbdK4aqTG1UAAAAi/giggle.gif)
+ 
